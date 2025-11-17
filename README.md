@@ -18,5 +18,5 @@ A simple game where you try to defuse as many kittens as possible before they ex
 
 ## Contributing
 
-Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to the project.
+Check out our [CONTRIBUTING.md](https://github.com/playfairs/exploding-kittens?tab=contributing-ov-file) for more information on how to contribute to the project.
 
