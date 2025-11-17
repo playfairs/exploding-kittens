@@ -1,0 +1,10 @@
+- [ ] Get the game to actually work
+- [ ] Add sound effects
+- [ ] Add more game modes
+- [ ] Add music
+- [ ] Add more kittens
+- [ ] Add Themes
+- [ ] Add weapons and items
+- [ ] Add achievements and advancement rewards
+- [ ] Add an XP and Level system
+- [ ] Add an inventory system
